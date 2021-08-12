@@ -1,5 +1,6 @@
 body {
   font-family: 'Inter',Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+  margin: 1em 0;
 }
 
 section {
@@ -8,14 +9,22 @@ section {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 1.8em;
   text-align: center;
   color: #483d4988;
-  text-decoration:underline;
+  text-decoration: underline;
+  margin: 1em 0;
 }
 
 p {
   margin: 1em 0;
+}
+
+a {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+  hyphens: auto;
 }
 
 code {
