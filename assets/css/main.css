@@ -1,0 +1,24 @@
+body {
+  font-family: 'Inter',Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+}
+
+section {
+  max-width: 600px;
+  margin: 2em auto;
+}
+
+h1 {
+  font-size: 2em;
+  text-align: center;
+  color: #483d4988;
+  text-decoration:underline;
+}
+
+p {
+  margin: 1em 0;
+}
+
+code {
+  color: #6f5d70;
+  font-weight: bold;
+}
