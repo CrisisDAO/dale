@@ -1,4 +1,4 @@
-# Dale the Bored Ape
+# Welcome to the Dale Cinematic Universe
 
 [![Bored Ape Yacht Club #8313](https://ipfs.io/ipfs/QmUqu1FpNxb5KFS2Hw58Rna9EybqM2Wff41pTbXCJLYnA3)](https://opensea.io/assets/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/8313)
 
@@ -15,4 +15,4 @@ We're working on a nicer home for Dale.
 - Contract: https://etherscan.io/address/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d
 - Metadata: https://ipfs.io/ipfs/QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/8313
 - Marketplace: https://opensea.io/assets/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/8313
-- Sourecode: https://github.com/CrisisDAO/dale
+- Improve this page: https://github.com/CrisisDAO/dale
